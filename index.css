@@ -92,6 +92,7 @@ nav {
     font-family: inherit;
     font-size: inherit;
     text-decoration: underline;
+    color: black;
 }
 
 .view-more-link:hover,
